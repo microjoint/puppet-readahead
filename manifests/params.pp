@@ -1,0 +1,4 @@
+#
+class pdnsd::params {
+
+}
